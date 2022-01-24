@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-project-13/static/css/main.93d1180f.css",
+    "main.js": "/react-project-13/static/js/main.f846fd74.js",
+    "static/js/mapbox-gl-csp-worker.054489cd.worker.js": "/react-project-13/static/js/mapbox-gl-csp-worker.054489cd.worker.js",
+    "index.html": "/react-project-13/index.html",
+    "main.93d1180f.css.map": "/react-project-13/static/css/main.93d1180f.css.map",
+    "main.f846fd74.js.map": "/react-project-13/static/js/main.f846fd74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d1180f.css",
+    "static/js/main.f846fd74.js"
+  ]
+}
